@@ -1,4 +1,3 @@
-# MNIST-HandWritten-Digit
 
 # MNIST Handwritten Digit Recognition using TensorFlow
 
